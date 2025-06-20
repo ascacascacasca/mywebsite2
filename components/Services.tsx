@@ -24,7 +24,7 @@ const Services = () => {
     {
       title: "4D Laser Cut Plate",
       description: "Precision laser-cut acrylic letters for sharp, clean finish. Professional appearance.",
-      price: "£49.99",
+      price: "£44.98",
       originalPrice: "£69.99",
       badge: "PREMIUM",
       badgeColor: "bg-blue-500",
@@ -37,7 +37,7 @@ const Services = () => {
     {
       title: "5D Laser Cut Plate",
       description: "Advanced 5D design with superior depth and premium materials.",
-      price: "£74.99",
+      price: "£64.98",
       originalPrice: "£99.99",
       badge: "LUXURY",
       badgeColor: "bg-yellow-500",
@@ -50,7 +50,7 @@ const Services = () => {
     {
       title: "6D Gel Plate",
       description: "Ultimate 6D gel technology for maximum impact and durability.",
-      price: "£74.99",
+      price: "£79.99",
       originalPrice: "£99.99",
       badge: "ULTIMATE",
       badgeColor: "bg-red-500",
@@ -76,7 +76,7 @@ const Services = () => {
     {
       title: "Double 4D Plate",
       description: "Double layer 4D effect for enhanced visibility and style.",
-      price: "£74.99",
+      price: "£64.98",
       originalPrice: "£99.99",
       badge: "ENHANCED",
       badgeColor: "bg-orange-500",
@@ -89,7 +89,7 @@ const Services = () => {
     {
       title: "Ghost 4D",
       description: "Subtle ghost effect for understated elegance and modern appeal.",
-      price: "£79.99",
+      price: "£69.99",
       originalPrice: "£109.99",
       badge: "SUBTLE",
       badgeColor: "bg-gray-500",
@@ -102,7 +102,7 @@ const Services = () => {
     {
       title: "Matt 4D",
       description: "Matte finish 4D plates for non-reflective, sophisticated appearance.",
-      price: "£79.99",
+      price: "£74.98",
       originalPrice: "£109.99",
       badge: "MATTE",
       badgeColor: "bg-slate-500",
@@ -115,7 +115,7 @@ const Services = () => {
     {
       title: "Standard Plate",
       description: "Classic DVLA compliant plates. Reliable, legal, and affordable option.",
-      price: "£24.99",
+      price: "£24.98",
       originalPrice: "£39.99",
       badge: "CLASSIC",
       badgeColor: "bg-green-600",
