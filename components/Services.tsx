@@ -136,7 +136,7 @@ const Services = () => {
               Premium Number Plates
             </h2>
             <p className="text-xl text-gray-700 max-w-2xl mx-auto leading-relaxed">
-              Choose from our extensive range of premium number plates. All plates are DVLA compliant, road legal, and come with a 12 months warranty.
+              Choose from our extensive range of premium number plates. All plates are DVLA compliant, road legal, and come with a 3 years warranty.
             </p>
           </div>
 
