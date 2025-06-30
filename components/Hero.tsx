@@ -50,7 +50,7 @@ const Hero = () => {
                 </span>
               </h1>
               <p className="text-xl text-white/90 leading-relaxed max-w-md">
-                UK's leading supplier of legal car plates. From 3D Gel to 5D Laser Cut - we create premium number plates with DVLA compliance and 12 months warranty.
+                UK's leading supplier of legal car plates. From 3D Gel to 6D Laser Cut - we create premium number plates with DVLA compliance and 3 years warranty.
               </p>
             </div>
 
@@ -75,7 +75,7 @@ const Hero = () => {
               </div>
               <div className="flex items-center gap-2 transform hover:scale-105 transition-transform duration-300">
                 <div className="w-2 h-2 bg-red-500 rounded-full animate-pulse"></div>
-                12 Months Quality Warranty
+                3 Years Quality Warranty
               </div>
               <div className="flex items-center gap-2 transform hover:scale-105 transition-transform duration-300">
                 <div className="w-2 h-2 bg-red-500 rounded-full animate-pulse"></div>
@@ -93,7 +93,7 @@ const Hero = () => {
                 <div className="text-sm text-white/70">Plates Delivered</div>
               </div>
               <div className="text-center p-4 bg-white/5 backdrop-blur-sm rounded-lg border border-white/10 transform hover:scale-105 transition-all duration-300 hover:bg-white/10">
-                <div className="text-2xl font-bold text-red-400">12M</div>
+                <div className="text-2xl font-bold text-red-400">3Y</div>
                 <div className="text-sm text-white/70">Warranty</div>
               </div>
               <div className="text-center p-4 bg-white/5 backdrop-blur-sm rounded-lg border border-white/10 transform hover:scale-105 transition-all duration-300 hover:bg-white/10">
