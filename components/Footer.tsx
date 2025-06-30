@@ -20,7 +20,7 @@ const Footer = () => {
                 />
               </div>
               <p className="text-white/80 leading-relaxed">
-                UK's leading supplier of premium number plates. DVLA compliant, road legal, and backed by our 12 months quality warranty.
+                UK's leading supplier of premium number plates. DVLA compliant, road legal, and backed by our 3 years quality warranty.
               </p>
               <div className="flex space-x-4">
                 <div className="flex items-center gap-2 text-sm">
@@ -29,7 +29,7 @@ const Footer = () => {
                 </div>
                 <div className="flex items-center gap-2 text-sm">
                   <Award className="w-4 h-4 text-yellow-400" />
-                  <span className="text-white/80">12 Months Warranty</span>
+                  <span className="text-white/80">3 Years Warranty</span>
                 </div>
               </div>
             </div>
@@ -120,7 +120,7 @@ const Footer = () => {
           <div className="container mx-auto px-4 py-6">
             <div className="flex flex-col md:flex-row justify-between items-center gap-4">
               <p className="text-white/70 text-sm">
-                © 2024 NumberPlateMaster. All rights reserved. Company Reg: 12345678
+                © 2025 NumberPlateMaster. All rights reserved. Company Reg: 126456678
               </p>
               <div className="flex gap-6 text-sm">
                 <a href="#" className="text-white/70 hover:text-yellow-400 transition-colors">Privacy Policy</a>
