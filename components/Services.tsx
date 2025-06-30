@@ -213,9 +213,9 @@ const Services = () => {
 
           {/* Help Section */}
           <div className="text-center mt-16 p-8 bg-gradient-to-r from-black to-gray-800 rounded-2xl text-white transform hover:scale-[1.02] transition-all duration-300 shadow-2xl">
-            <h3 className="text-2xl font-semibold mb-4">Need Help Choosing?</h3>
+            <h3 className="text-2xl font-semibold mb-4">Unsure which number plate style best suits your vehicle?</h3>
             <p className="text-white/90 mb-6 max-w-md mx-auto">
-              Our expert team can help you select the perfect plates for your vehicle. Contact us for professional guidance and V5C document assistance.
+              Our specialists are here to help. Call us now on 020 8616 1655 for expert guidance.
             </p>
             <div className="flex justify-center">
               <Button 
