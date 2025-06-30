@@ -111,7 +111,7 @@ const Reviews = () => {
               <div className="text-white/80">Plates Delivered</div>
             </div>
             <div className="text-white">
-              <div className="text-3xl font-bold text-yellow-400 mb-2">12 Months</div>
+              <div className="text-3xl font-bold text-yellow-400 mb-2">3 Years</div>
               <div className="text-white/80">Quality Warranty</div>
             </div>
             <div className="text-white">
